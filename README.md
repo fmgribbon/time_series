@@ -18,26 +18,25 @@
 ### CHARTS
   - VENDOR 25
   
-![Revenue](https://github.com/fmgribbon/time_regression/blob/main/resources/Monthly_Revenue_25.PNG)
+[Historical Revenue](https://github.com/fmgribbon/time_regression/blob/main/resources/Monthly_Revenue_25.PNG)
 
-![ACF](https://github.com/fmgribbon/time_regression/blob/main/resources/ACF_vendor25.PNG)
+[ACF](https://github.com/fmgribbon/time_regression/blob/main/resources/ACF_vendor25.PNG)
 
-![PACF](https://github.com/fmgribbon/time_regression/blob/main/resources/PACF_vendor25.PNG)
+[PACF](https://github.com/fmgribbon/time_regression/blob/main/resources/PACF_vendor25.PNG)
 
-![ARIMA Summary](https://github.com/fmgribbon/time_regression/blob/main/resources/Summary_vendor25.PNG)
 
-![Predicted Revenue](https://github.com/fmgribbon/time_regression/blob/main/resources/predicted_vendor25.PNG)
+
   - VENDOR 31
   
-![Revenue](https://github.com/fmgribbon/time_regression/blob/main/resources/Monthly_Revenue_31.PNG)  
+[Historical Revenue](https://github.com/fmgribbon/time_regression/blob/main/resources/Monthly_Revenue_31.PNG)  
 
-![ACF](https://github.com/fmgribbon/time_regression/blob/main/resources/ACF_vendor31.PNG)
+[ACF](https://github.com/fmgribbon/time_regression/blob/main/resources/ACF_vendor31.PNG)
 
-![PACF](https://github.com/fmgribbon/time_regression/blob/main/resources/PACF_vendor31.PNG)
+[PACF](https://github.com/fmgribbon/time_regression/blob/main/resources/PACF_vendor31.PNG)
 
-![ARIMA Summary](https://github.com/fmgribbon/time_regression/blob/main/resources/Summary_vendor31.PNG)
 
-![Predicted Revenue](https://github.com/fmgribbon/time_regression/blob/main/resources/predicted_vendor31.PNG)
+
+
 
 
 ## Results
@@ -46,7 +45,23 @@
   The ARIMA model has a lot of parameters that could be tweaked to improve the performance of the model. This analysis used the basic ARIMA model. It could be a starting point in the forecasting the revenue. The model may not be used to forecast revenue using other datasets.
  
    - VENDOR 25
-![Forecasted December 2015 Revenue](https://github.com/fmgribbon/time_regression/blob/main/resources/Forecasted_vendor25.PNG)
+   
+[Predicted Revenue](https://github.com/fmgribbon/time_regression/blob/main/resources/predicted_vendor25.PNG)
+
+[Forecasted December 2015 Revenue](https://github.com/fmgribbon/time_regression/blob/main/resources/Forecasted_vendor25.PNG)
+
+[Mean Square Error](https://github.com/fmgribbon/time_series/blob/main/resources/mean_squared_error_vendor25.PNG)
+
+[ARIMA Summary](https://github.com/fmgribbon/time_regression/blob/main/resources/Summary_vendor25.PNG)
+
+
  
    - VENDOR 31
-![Forecasted DEcember 2015 Revenue](https://github.com/fmgribbon/time_regression/blob/main/resources/Forecasted_vendor31.PNG)
+   
+[Predicted Revenue](https://github.com/fmgribbon/time_regression/blob/main/resources/predicted_vendor31.PNG)
+
+[Forecasted DEcember 2015 Revenue](https://github.com/fmgribbon/time_regression/blob/main/resources/Forecasted_vendor31.PNG)
+
+[Mean Square Error](https://github.com/fmgribbon/time_series/blob/main/resources/mean_squared_error_vendor31.PNG)
+
+[ARIMA Summary](https://github.com/fmgribbon/time_regression/blob/main/resources/Summary_vendor31.PNG)
