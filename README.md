@@ -1,7 +1,7 @@
 # Time Series Forecasting
 
 ## Overview
-   The purpose of this study is to forecast the Dec 2015 revenue for vendors 25 and 31. To forecast the revenue, the given dataset that contains 2 years historical data from 2013 – Oct 2015 was used. The time series model ARIMA (Autoregressive Integrated Moving Average) was used to forecast the December 2015
+   The purpose of this study is to forecast the Dec 2015 revenue for vendors 25 and 31. To forecast the revenue, the given dataset that contains 2 years historical data from 2013 – Oct 2015 was used. The time series model ARIMA (Autoregressive Integrated Moving Average) was used to forecast the December 2015 revenue.
 ### Data Analysis
 - The revenue was calculated by multiplying the number of products sold by the price of the product. 
 - The date in the dataset was converted to date format yyyy-mm-dd. 
