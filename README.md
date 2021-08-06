@@ -60,7 +60,7 @@
    
 [Predicted Revenue](https://github.com/fmgribbon/time_regression/blob/main/resources/predicted_vendor31.PNG)
 
-[Forecasted DEcember 2015 Revenue](https://github.com/fmgribbon/time_regression/blob/main/resources/Forecasted_vendor31.PNG)
+[Forecasted December 2015 Revenue](https://github.com/fmgribbon/time_regression/blob/main/resources/Forecasted_vendor31.PNG)
 
 [Mean Square Error](https://github.com/fmgribbon/time_series/blob/main/resources/mean_squared_error_vendor31.PNG)
 
