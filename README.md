@@ -9,7 +9,7 @@
 - All product price were positive. 
 - There were negative number of products sold. It was assumed that these were products that were returned. 
 - The revenue data were aggregated by months. There were 12 observations per year. 
-- The data is stationary after the stationary test was done using statools adfuller.
+- The data is stationary after the stationarity test was done using statools adfuller.
 - The data have a trend with peaks and valleys. It reaches its low points in July and accelerates rapidly up to the end of the year. 
 - The revenue patterns repeat every year. 
 - The 70:30 ratio was used to generate the training and test dataset.
